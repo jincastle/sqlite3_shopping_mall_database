@@ -1,0 +1,1 @@
+# sqlite3_shopping_mall_database
